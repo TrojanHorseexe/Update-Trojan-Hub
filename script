@@ -38,8 +38,6 @@ Trojan.Font = Enum.Font.Antique
 Trojan.Text = "Trojan"
 Trojan.TextColor3 = Color3.fromRGB(255, 255, 255)
 Trojan.TextSize = 31.000
-Trojan.Active = true
-Trojan.Draggable = true
 
 Fly.Name = "Fly"
 Fly.Parent = Frame
